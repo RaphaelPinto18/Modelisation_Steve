@@ -1,4 +1,4 @@
-# Modelisation_Steve
+# Modelisation_Steve le bucheron.
 Projet scolaire dans le but d'intégrer de la modélisation à un problème concret 
 
 
